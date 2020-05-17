@@ -1,6 +1,7 @@
 {
   "name": "@eneto/express",
   "version": "1.0.0",
+  "private": false,
   "deprecated": false,
   "repository": "https://github.com/EnetoJara/eneto-express",
   "homepage": "/eneto-express",
