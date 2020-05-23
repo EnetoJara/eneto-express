@@ -1,6 +1,4 @@
-import { application } from 'express';
-
-export declare class Express extends application.Application {
+export declare class Express {
     [x: string]: any;
     constructor();
 }
